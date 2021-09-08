@@ -7,5 +7,17 @@
     1. Continue on same road for 2hrs.
 3. Continue on W lds B. Wells Dr. Drive to S Federal St.
 
- 
+
 **[Bio](AboutMe.md)**
+
+
+---
+
+# My Food Recommendations
+Top 4 items
+| Food | Available Location | Cost to Prepare |
+| --- | --- | --- |
+| Plain Dal with Mango pickle | Andhra Pradesh, India | 8 - 10$ |
+| Sambar | Andhra Pradesh, India | 10 -15$ |
+| Clay pot Curd with Onion and buttermilk chilies | Andhra Pradesh, India | 4 - 6$ |
+| Tirumala Laddu | Tirupati, India | 1$ |
