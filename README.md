@@ -21,3 +21,12 @@ Top 4 items
 | Sambar | Andhra Pradesh, India | 10 -15$ |
 | Clay pot Curd with Onion and buttermilk chilies | Andhra Pradesh, India | 4 - 6$ |
 | Tirumala Laddu | Tirupati, India | 1$ |
+
+
+---
+
+# My Quotes
+
+ > Tomorrow is another name for Belief
+
+ > Hope is good thing maybe the best of things
