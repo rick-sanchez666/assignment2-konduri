@@ -22,6 +22,12 @@ Top 4 items
 | Clay pot Curd with Onion and buttermilk chilies | Andhra Pradesh, India | 4 - 6$ |
 | Tirumala Laddu | Tirupati, India | 1$ |
 
+### Items to carry
+- Water and some snacks
+- Camera
+- skateboard
+- jacket
+
 
 ---
 
@@ -29,7 +35,13 @@ Top 4 items
 
  > Tomorrow is another name for Belief
 
+ *Vanamali*
+
+
+
  > Hope is good thing maybe the best of things
+
+ *The Shawshank Redemption*
 
  # Choosen Algorithm - Minimum spanning tree - Prim's algorithm
 
